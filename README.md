@@ -1,4 +1,4 @@
-# 📝 Employee-Manager Feedback System
+# 👨‍💼 Employee-Manager Feedback System
 
 A **FastAPI + SQLite backend system** for managing employees and managers, with authentication, manager-employee mapping, and extendable feedback functionality.
 
