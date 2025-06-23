@@ -25,3 +25,18 @@ A **FastAPI + SQLite backend system** for managing employees and managers, with 
 - 🌐 **Uvicorn** — ASGI server
 
 ---
+
+## ⚡ Setup & Run
+
+### 1️⃣ Clone the repository
+
+```bash
+git clone https://github.com/yourusername/employee-manager-feedback.git
+cd employee-manager-feedback/backend
+python -m venv venv
+# Activate:
+# On Windows
+venv\Scripts\activate
+# On Mac/Linux
+source venv/bin/activate
+
